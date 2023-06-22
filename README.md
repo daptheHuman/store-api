@@ -1,10 +1,10 @@
 # Store-API🏪
 
-This project is a Node.js backend that provides an API for a store.
+This project is a Node.js backend that provides an API for a online-store.
 
 ## Project Overview📝
 
-The Store-API project is a Node.js backend that handles user-related functionalities for a store. It allows administrators to retrieve user information, update user details, and delete users. Certain operations require authentication and authorization.
+The Store-API project is a Node.js backend that handles user-related functionalities for a online-store. It allows admin to retrieve user information, update user details, and delete users. Certain operations require authentication and authorization.
 
 ## Features✨
 
